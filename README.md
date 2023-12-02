@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I'm a geomatics engineer. With deep interest in Frontend Web Development.
+I'm a Full-Stack engineer. With deep interest in Frontend Web Development. Head to my [Frontend Masters profile](https://frontendmasters.com/u/salahelfarissi/) to see my learning journey. And here are the projects I had fun doing so far:
 
-Head to my [Frontend Masters profile](https://frontendmasters.com/u/salahelfarissi/) to see my learning journey.
+| **Project**  | **Purpose** | **Competences acquired** | **Programming language** |
+| ------------- | ------------- | ------------- | ------------- |
+| [Adopt Me](https://github.com/salahelfarissi/adopt-me)  | Building a web app for adopting pets.  | • Full-Stack web development.  | TS  |
 
 [![My Skills](https://skillicons.dev/icons?i=express,react,nextjs)](https://skillicons.dev)
